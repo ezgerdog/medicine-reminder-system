@@ -30,8 +30,8 @@ The project demonstrates:
 ## Project Structure
 
 ```text
-Medicine-Reminder-and-Tracking-System/
-├── FINAL_PROJECT.txt
+medicine-reminder-system/
+├── medicine_reminder.py
 ├── .gitignore
 ├── .gitattributes
 └── README.md
@@ -79,21 +79,19 @@ The patient can take medicines, while the doctor can check which medicines have 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ezgerdog/Medicine-Reminder-and-Tracking-System.git
+git clone https://github.com/ezgerdog/medicine-reminder-system.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd Medicine-Reminder-and-Tracking-System
+cd medicine-reminder-system
 ```
 
-3. Rename `FINAL_PROJECT.txt` to `FINAL_PROJECT.py`, or run it as a Python file after changing its extension.
-
-4. Run the application:
+3. Run the application:
 
 ```bash
-python FINAL_PROJECT.py
+python medicine_reminder.py
 ```
 
 ## Technologies
